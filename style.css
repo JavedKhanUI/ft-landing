@@ -22794,3 +22794,6 @@ html[dir=rtl] .choices__input {
 .ql-snow .ql-stroke {
   stroke: #747579;
 }
+.tns-controls {
+  display: none;
+}
